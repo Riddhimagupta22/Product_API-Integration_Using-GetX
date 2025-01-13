@@ -1,16 +1,8 @@
-# flutter_get
+# Api Integration
 
-A new Flutter project.
+This project demonstrates how to integrate a product API with GetX for state management in Flutter. The app allows fetching product data from an API and managing it efficiently using GetX
 
-## Getting Started
+## AppUi
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://github.com/user-attachments/assets/8b1f76b7-54ab-4e38-8332-0f76893db133
+" height="500" width="220"/>
